@@ -1,8 +1,6 @@
 // {Name: SmallTalk}
 // {Description: Gives responses to casual conversation.}
 
-title('Small talk')
-
 question(
     'hello',
     'hi (there|)',
